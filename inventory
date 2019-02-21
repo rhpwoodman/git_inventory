@@ -1,0 +1,5 @@
+[local]
+localhost
+
+[test_servers]
+test1
